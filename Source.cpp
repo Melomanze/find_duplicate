@@ -96,7 +96,7 @@ void CompareSong(bool a, bool n, bool d) {
 				c = t;
 			}
 			//if (p->full == c->full) cout << p->full << " | " << c->full << endl;
-			//add commit
+			//add commit t
 			c = c->next;
 		}
 		if (p->dub == true) cout << p->full << endl;
